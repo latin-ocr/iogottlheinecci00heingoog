@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iogottlheinecci00heingoog/iogottlheinecci00heingoog_0020.png"; bbox 0 0 3825 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 720 1233 3090 1645">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 720 1233 3090 1645">
+     <span class='ocr_line' id='line_1_1' title="bbox 720 1233 3090 1459; baseline -0.004 -32"><span class='ocrx_word' id='word_1_1' title='bbox 720 1258 983 1429; x_wconf 83' lang='lat'><strong>10.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1084 1272 1795 1420; x_wconf 82' lang='lat' dir='ltr'>GoTTL.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1890 1233 2830 1459; x_wconf 74' lang='lat' dir='ltr'><strong>HE1NEccn-,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2931 1320 3090 1419; x_wconf 79' lang='lat'><strong>10.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1108 1530 2761 1645; baseline -0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1108 1530 1935 1643; x_wconf 91' lang='lat' dir='ltr'><strong>OPVSCVLOR.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1999 1530 2761 1645; x_wconf 90' lang='lat' dir='ltr'><strong>POSTVMOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1722 1750 2300 1893">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1722 1750 2300 1893">
+     <span class='ocr_line' id='line_1_3' title="bbox 1722 1750 2300 1893; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1722 1750 2300 1893; x_wconf 61' lang='lat' dir='ltr'><strong>ToML&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 549 2046 3320 2219">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 549 2046 3320 2219">
+     <span class='ocr_line' id='line_1_4' title="bbox 549 2046 3320 2219; baseline 0.005 -14"><span class='ocrx_word' id='word_1_8' title='bbox 549 2048 1819 2207; x_wconf 66' lang='lat' dir='ltr'>HISTORIAM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1933 2046 3320 2219; x_wconf 83' lang='lat' dir='ltr'>EDICTORVM‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 736 2254 3028 2568">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 736 2254 3028 2568">
+     <span class='ocr_line' id='line_1_5' title="bbox 736 2254 3028 2436; baseline -0.005 -31"><span class='ocrx_word' id='word_1_10' title='bbox 736 2254 1980 2436; x_wconf 76' lang='lat' dir='ltr'><strong>-EDICTIQVE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2064 2254 3028 2395; x_wconf 84' lang='lat' dir='ltr'>PERPETVI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1416 2469 2494 2568; baseline -0.004 0"><span class='ocrx_word' id='word_1_12' title='bbox 1416 2469 2494 2568; x_wconf 87' lang='lat' dir='ltr'><strong>COMPLECTENS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 93 3777 124 4552">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 93 3777 124 4552">
+     <span class='ocr_line' id='line_1_7' title="bbox 93 3777 124 4552; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 93 3777 124 4552; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
